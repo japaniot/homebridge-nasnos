@@ -1,0 +1,19 @@
+{
+  "name": "homebridge-nasnos",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "keywords": [
+    "curtain",
+    "homebridge-plugin",
+    "homekit"
+  ],
+  "licenses": [
+    {
+      "name": "cc by-nc-sa 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    }
+  ],
+  "engines": {
+    "homebridge": ">= 0.4.0"
+  }
+}
